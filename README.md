@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on ...
 
-Django
+Python
 
 ### solved.ac tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydgk79)](https://solved.ac/dydgk79/)
